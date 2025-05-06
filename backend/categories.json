@@ -1,0 +1,28 @@
+[
+    {
+      "name": "Wellness",
+      "slug": "wellness",
+      "description": "Articles promoting mental and physical well-being."
+    },
+    {
+      "name": "Web Development",
+      "slug": "web-development",
+      "description": "Topics on modern web development frameworks and practices."
+    },
+    {
+      "name": "Education",
+      "slug": "education",
+      "description": "Insights and resources for learning and personal growth."
+    },
+    {
+      "name": "Art",
+      "slug": "art",
+      "description": "Creative inspiration and guidance in artistic pursuits."
+    },
+    {
+      "name": "Business",
+      "slug": "business",
+      "description": "Tips and stories on entrepreneurship and startup life."
+    }
+  ]
+  

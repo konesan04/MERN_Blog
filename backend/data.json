@@ -1,0 +1,93 @@
+[
+    {
+      "title": "Exploring the Mountains",
+      "content": "An adventurous journey through the Rocky Mountains.",
+      "category": "Travel",
+      "author": "Alice Johnson",
+      "image": "https://picsum.photos/seed/mountain/600/400",
+      "createdAt": "2025-05-01T10:15:00Z",
+      "updatedAt": "2025-05-01T10:15:00Z"
+    },
+    {
+      "title": "10 JavaScript Tips You Didn’t Know",
+      "content": "Boost your coding skills with these lesser-known JavaScript tricks.",
+      "category": "Technology",
+      "author": "Bob Lee",
+      "image": "https://picsum.photos/seed/js/600/400",
+      "createdAt": "2025-04-28T14:30:00Z",
+      "updatedAt": "2025-04-28T14:30:00Z"
+    },
+    {
+      "title": "Healthy Meals in Under 30 Minutes",
+      "content": "Quick and nutritious meals for your busy schedule.",
+      "category": "Health",
+      "author": "Carla Gomez",
+      "image": "https://picsum.photos/seed/food/600/400",
+      "createdAt": "2025-04-25T08:00:00Z",
+      "updatedAt": "2025-04-25T08:00:00Z"
+    },
+    {
+      "title": "Minimalist Living Tips",
+      "content": "How to declutter your life and live with intention.",
+      "category": "Lifestyle",
+      "author": "Daniel Reed",
+      "image": "https://picsum.photos/seed/minimal/600/400",
+      "createdAt": "2025-04-20T12:45:00Z",
+      "updatedAt": "2025-04-20T12:45:00Z"
+    },
+    {
+      "title": "Understanding Stock Markets",
+      "content": "An easy guide for beginners entering the world of stocks.",
+      "category": "Finance",
+      "author": "Emily Turner",
+      "image": "https://picsum.photos/seed/stocks/600/400",
+      "createdAt": "2025-04-18T09:30:00Z",
+      "updatedAt": "2025-04-18T09:30:00Z"
+    },
+    {
+      "title": "The Art of Meditation",
+      "content": "Calm your mind and body with daily meditation.",
+      "category": "Wellness",
+      "author": "Frank Wallace",
+      "image": "https://picsum.photos/seed/meditation/600/400",
+      "createdAt": "2025-04-15T07:20:00Z",
+      "updatedAt": "2025-04-15T07:20:00Z"
+    },
+    {
+      "title": "Top 5 CSS Frameworks in 2025",
+      "content": "Discover the leading frameworks and how they compare.",
+      "category": "Web Development",
+      "author": "Grace Kim",
+      "image": "https://picsum.photos/seed/css/600/400",
+      "createdAt": "2025-04-10T11:10:00Z",
+      "updatedAt": "2025-04-10T11:10:00Z"
+    },
+    {
+      "title": "Why Reading Fiction Matters",
+      "content": "Explore the cognitive and emotional benefits of reading stories.",
+      "category": "Education",
+      "author": "Henry Adams",
+      "image": "https://picsum.photos/seed/books/600/400",
+      "createdAt": "2025-04-08T16:00:00Z",
+      "updatedAt": "2025-04-08T16:00:00Z"
+    },
+    {
+      "title": "Mastering Photography Basics",
+      "content": "Tips for beginners to start capturing stunning shots.",
+      "category": "Art",
+      "author": "Isabel Newton",
+      "image": "https://picsum.photos/seed/photo/600/400",
+      "createdAt": "2025-04-05T13:55:00Z",
+      "updatedAt": "2025-04-05T13:55:00Z"
+    },
+    {
+      "title": "Building a Startup from Scratch",
+      "content": "Lessons from entrepreneurs who turned ideas into companies.",
+      "category": "Business",
+      "author": "Jack Morgan",
+      "image": "https://picsum.photos/seed/startup/600/400",
+      "createdAt": "2025-04-01T18:40:00Z",
+      "updatedAt": "2025-04-01T18:40:00Z"
+    }
+  ]
+  
